@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for Couchbase.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit Couchbase on SOFTGIT](https://softgit.pro/p/couchbase)** — the full listing.
+- 📄 **[Couchbase web page](https://pegasuscodeberth.github.io/couchbase-download/)** — standalone info page.
+- 🗂️ [More Database software](https://softgit.pro/category/database)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Couchbase. Third-party software; all rights belong to the original authors.
